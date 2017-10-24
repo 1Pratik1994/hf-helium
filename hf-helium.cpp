@@ -9,7 +9,7 @@
 #include <iomanip>
 #include <string>
 #include <cstdlib>
-#include <lapacke.h>
+#include <lapack.h>
 #include <math.h>
 
 using namespace std;
